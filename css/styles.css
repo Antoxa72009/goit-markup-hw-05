@@ -786,6 +786,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .modal-checkbox {
     margin-bottom: 24px;
+    display: inline-flex;
 }
 
 .modal-check-text{
