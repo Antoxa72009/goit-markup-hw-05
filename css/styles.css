@@ -785,12 +785,10 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 }
 
 .modal-checkbox {
-    margin-bottom: 24px;
-    display: inline-flex;
+    margin-bottom: 24px;    
 }
 
-.modal-check-text{
-    display: inline-flex;
+.modal-check-text{    
     font-weight: 400;
         font-size: 12px;
         line-height: 1.17;
@@ -798,7 +796,6 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
         color: #8e8f99;        
         align-items: center;          
 }
-
 .modal-check-item {
     width: 16px;
     height: 16px;
