@@ -503,7 +503,8 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .footer-social {
     display: flex;
-    flex-direction: column;    
+    flex-direction: column;
+    margin-right: 80px;
 }
 
 .text-icon{    
@@ -517,8 +518,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .footer-icon {
     display: flex;
-    gap: 16px;
-    margin-right: 80px;
+    gap: 16px;    
 }
 
 .content-footer-icon {
